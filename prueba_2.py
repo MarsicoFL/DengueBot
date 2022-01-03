@@ -6,10 +6,6 @@ Created on Mon Dec 20 14:17:05 2021
 @author: agf
 """
 
-# desarrollo_alerta_dengue_bot
-token = '5009804862:AAHUaqVBiXjHDO4t4eesy73ssgZrNjhPKFI' 
-# desarrollo_alerta_dengue_bot
-##############
 
 
 import logging
