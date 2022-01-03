@@ -3,13 +3,11 @@
 
 ##################
 # alerta_dengue_bot
-# token = "931371541:AAHWAtaJf8t5dWYGPSeN-RRpgWUG46d2Ncc"
 # alerta_dengue_bot
 ##################
 
 ##################
 # desarrollo_alerta_dengue_bot
-token = '5009804862:AAHUaqVBiXjHDO4t4eesy73ssgZrNjhPKFI' 
 # desarrollo_alerta_dengue_bot
 ##############
 
